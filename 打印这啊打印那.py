@@ -1,0 +1,6 @@
+print("hello")
+print("ide")
+print("here i am")
+print("are you ok?")
+input()
+print("ok你个蛇皮")
